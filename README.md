@@ -9,7 +9,7 @@ Welcome to the **Ultimate Data Analytics Cheat Sheets Repository!** 🚀 This re
 ### 🐍 Python for Data Analysis
 - [NumPy Cheat Sheet](cheatsheets/numpy_cheatsheet.pdf)
 - [Pandas Cheat Sheet](cheatsheets/pandas_cheatsheet.pdf)
-- [Matplotlib cheat sheet](cheatsheets/matplotlib_seaborn_cheatsheet.pdf)
+- [Matplotlib Cheat sheet](cheatsheets/matplotlib_seaborn_cheatsheet.pdf)
 - [Seaborn Cheat Sheet](cheatsheets/matplotlib_seaborn_cheatsheet.pdf)
 - [Scikit-Learn Cheat Sheet](cheatsheets/scikit_learn_cheatsheet.pdf)
 
