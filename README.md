@@ -14,7 +14,7 @@ Welcome to the **Ultimate Data Analytics Cheat Sheets Repository!** 🚀 This re
 - [Scikit-Learn Cheat Sheet](https://github.com/venkateshcodes/Cheatsheets/blob/cfd39dc21b3af75b436706cb6d8a67b86d6d2d3c/Scikit%20learn%20cheatsheet.pdf)
 
 ### 📊 SQL for Data Analysis
-- [SQL Basics Cheat Sheet](cheatsheets/sql_basics_cheatsheet.pdf)
+- [SQL Basics Cheat Sheet](https://github.com/venkateshcodes/Cheatsheets/blob/5ae6d9597a76008e1465bfbfb113adb4d73753ca/SQL%20cheatsheet.pdf)
 - [Advanced SQL Cheat Sheet](cheatsheets/advanced_sql_cheatsheet.pdf)
 
 ### 📈 Power BI & Tableau
