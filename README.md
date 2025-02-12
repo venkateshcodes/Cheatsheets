@@ -27,7 +27,6 @@ Welcome to the **Ultimate Data Analytics Cheat Sheets Repository!** 🚀 This re
 
 ### 🔢 Statistics & Machine Learning
 - [Descriptive Statistics Cheat Sheet](cheatsheets/descriptive_statistics_cheatsheet.pdf)
-- [Machine Learning Basics Cheat Sheet](cheatsheets/ml_algorithms_cheatsheet.pdf)
 - [Machine Learning Algorithms Cheat Sheet](cheatsheets/ml_algorithms_cheatsheet.pdf)
 
 ## 🚀 How to Use
