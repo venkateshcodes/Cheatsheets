@@ -28,7 +28,7 @@ Welcome to the **Ultimate Data Analytics Cheat Sheets Repository!** 🚀 This re
 ### 🔢 Statistics & Machine Learning
 - [Descriptive Statistics Cheat Sheet](https://github.com/venkateshcodes/Cheatsheets/blob/44bb7658a56ce842852dca44d8165856a31ff748/Statistics%20Cheatsheet.pdf)
 - [Machine Learning Basics Cheat Sheet](https://github.com/venkateshcodes/Cheatsheets/blob/44bb7658a56ce842852dca44d8165856a31ff748/Machine%20Learning%20Cheat%20Sheet%20Basics.pdf )
-- [Machine Learning Algorithms Cheat Sheet](https://github.com/venkateshcodes/Cheatsheets/blob/44bb7658a56ce842852dca44d8165856a31ff748/Machine%20Learning%20cheatsheet%20Algorithms.pdf)
+- [Machine Learning Algorithms Cheat Sheet] (https://github.com/venkateshcodes/Cheatsheets/blob/44bb7658a56ce842852dca44d8165856a31ff748/Machine%20Learning%20cheatsheet%20Algorithms.pdf)
 ## 🚀 How to Use
 1. Click on any cheat sheet link to open and download it.
 2. Print it out or keep it handy while working on your data projects.
